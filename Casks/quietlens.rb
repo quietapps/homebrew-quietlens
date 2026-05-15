@@ -1,6 +1,6 @@
 cask "quietlens" do
-  version "1.0.3"
-  sha256 "dca842536b7495da5f735618cbba74113bcd0d2dc1c97124ab637b8a63f5a795"
+  version "1.0.4"
+  sha256 "d7a65201fb33568e83b0f893da7e2c0c04046e78c807514cb2d182968cdc66fa"
 
   url "https://github.com/quietapps/QuietLens/releases/download/#{version}/QuietLens-#{version}.zip",
       verified: "github.com/quietapps/QuietLens/"
